@@ -2,3 +2,8 @@
 ./startReact/my-app/node_modules
 ./startReact/my-app/.git
 .git/
+./RockPaperScissors/RPS-app/node_modules
+TimerProject/my-timer/node_module
+RockPaperScissors/RPS-app/node_modules/
+dicegame/node_modules/
+first_prj/node_modules
