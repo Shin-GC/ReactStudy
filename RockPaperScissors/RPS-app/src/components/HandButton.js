@@ -1,6 +1,6 @@
 import HandIcon from './HandIcon';
-import './HandButton.css'
-// CSS 파일로 스타일을 적용해주세요
+import '../static/css/Button.css'
+
 function HandButton({ value, onClick }) {
   const handleClick = () => onClick(value);
   return (
